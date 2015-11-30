@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="40" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="Tile" tilewidth="32" tileheight="32">
+  <image source="maptileset1.png" width="1024" height="2016"/>
+ </tileset>
+ <layer name="Grass" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3TsQmAQBBE0RWsTbjMFixAe7AArVkT4Tj21kPEGWGCn2z0YNhkZkkppdSjxiy0JbKxGT0bizGyoY2eZSAyerYrtC+yMRj/5rvbl2Fjtv+oGVlsLUa0LTKiTeqd1iy0peYqY7LIJ5988sknX6tv7s2Wnte3nbad2Me679T5nvL+tQ/dAT1g+SQAGQAA
+  </data>
+ </layer>
+ <layer name="Streets" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+2WsQ3AMAzD/Fr+fypLgSwdEqiqHIACvJIcXbU2nus6+rTd0tfpbuz7a6c++jQffZqPPs1Hn+ajT/PRp/no03zpX2/3/+t0b32OfcGmL89wsunLM5xs+vIMJ5u+PMPJpi/PcLI79k31FdGwABkAAA==
+  </data>
+ </layer>
+ <layer name="Objects" width="40" height="40">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA82ZS0oEMRCGG0xPL1zOEXROooOCS0XwsfS1HxnxsZ0j6E30DiqCryu4UBF8HcCETOgYUqmq7qS7PyiQTFXlN931T8QsK3nJdXSdmV6WiV7bKmDmpLb5yPq2i3i9FqS2xcj6ziLqywnasJyqn9vr0CwMnNolmbech3O4PaD6AUHf0Kndl3kHeTiH2wOqx/pW5a7D86746KC+a0ATtB4LyvwqXoE8aB3CN38hsNmMgX0GvvkLgc3QDVF/KC/lGbx5et971nx5hlQ+AvHZkfm9BXRsAN+vUH4q3oH9jgF9UL4Nd34pYB7H8UDu/FL8D/M47HPK/QWCM/ubznPdIt7z3D3OZd1FQdubM/snjp5Toj53j0tZd1XQ9qZ+v1WB07vO/RQDqrF7Y32x++kk12HmS/3cz8ow9J2wa6DeCu7c2rhafLpsVmX+2rRmJ/Hf0Obc1V4PolwfBd6dkcw/nNbsBfTF8GJz7mqvL4Gm/wM7vzrP1MY8XypP8vd4Fs08X+UBXH0/UtsvQV8M71IeMFvw9Bmw9y/GvXRY4fwehQ7s/GLdS7n6voWOJt4/BVefoWn/44Lpi+1/XNr2v/WeDog237+x1LUidBwBGpvy51T+F8uf68zvbiJ/Nv9fsP25Skw8+uzeHP4AMcGxIQAZAAA=
+  </data>
+ </layer>
+</map>

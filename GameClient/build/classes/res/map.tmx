@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="100" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="TIle1" tilewidth="32" tileheight="32">
+  <image source="maptileset1.png" width="1024" height="2016"/>
+ </tileset>
+ <layer name="Grass" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3DAQkAAAwEoav3/QsNlkPBVVNVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVf8BH2ZfP0CcAAA=
+  </data>
+ </layer>
+ <layer name="Sand" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3VQQqDQBREwTmf9z9QlqadRQJB+huqQHAn9BvGY611PPD5V+1dtUjtbfVI7W31SO1t9UjtbfVI7W31SO1ttUntPfVI7T31SO099UjtPfVI7T31SO09NUjtbfVI7W312LX31ePU3laPXXtfPVJ7Xy1O7X012LX31iC1t9cive+gxQwTerA7Lu93bq/FZ3f3uH5Li+/9ct7tfA93/gz+wbNoMY8Os+gwix6zaDGLDgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMCTvADJmhojQJwAAA==
+  </data>
+ </layer>
+ <layer name="Water" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3RQQkAAAgAMePZP5EJfIkgssEluIheDmKHH/f4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC/FLEUN6ZAnAAA
+  </data>
+ </layer>
+ <layer name="Grass2" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3RwQnCAAAEwXRn/x35PhRDHskizMA1cHscAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPDfXjeOa+5soc11T/bQ5NzTPXT5reqhyXdlD00+1T00WXULPVbdQpdVN9Bl1d9rsurfdVn133qs+m89Vv23Hqv+W5dV/6zJqj/WZNX/arLqbzVZ9a+arPpTTVb9px6r/lOPVf+px6r/1GO9AYvQuyRAnAAA
+  </data>
+ </layer>
+ <layer name="City" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3RQQ3AIADAQNThX9IkAEsgfdwlVdAxAAAAAAAAAAAAAAComhfi3I0Pvvzz4oUne16+8GTNjxY/Wvxo8aPFjxY/Wvxo8aPFjxY/Wvxo8aPFjxY/Wvxo8aPFjxY/Wvxo8aPFjxY/Wvxo8aPFjxY/Wvxo8aPFjxY/Wvxo8aPFjxY/WvwAAAAAAAAAAAAAAACg6gMEasbsQJwAAA==
+  </data>
+ </layer>
+ <layer name="Trees" width="100" height="100">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3cQQ6CQAwF0GoCJ9Wb6E30YHoS2bA1zOgMHfLeGhIy5bcNCyJyucwR13nvp2B1W2pxV480HkstnupBInp2Lnp2Lno2MLraOW8/aKN2ztsP2qid8zX3yVQuMpWLnRuAlZ2pvZIztjO1V3LGdqb2nDEAAAAAAAAAAAAAAAAAAAAAAAAAAMBvXlPEe9r7KVid5oiz/+4OR45ykSOOSq/JRa8ZU0mOZK69khzJHEeiv+SivwAjK50pZlBbpTOl9Hr1y8UOUa/3uyw73/V+l2XH96ls/v19amvN1LaPrfXVm8YiP7nID719AO+e3FxAnAAA
+  </data>
+ </layer>
+</map>
